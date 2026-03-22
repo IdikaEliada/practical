@@ -31,7 +31,7 @@
             Spring Boot 3.x. The original skeleton targeted Java 25, which is
             a non-LTS preview JDK not yet in general availability.
         -->
-        <java.version>21</java.version>
+        <java.version>17</java.version>
     </properties>
 
     <dependencies>
